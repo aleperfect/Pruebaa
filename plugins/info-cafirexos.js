@@ -9,25 +9,23 @@ Aprovecha la compatibilidad y comienza usar GataBot en servidores de alto rendim
 🔵 \`\`\`Información del Host\`\`\`
 
 💻 *Página*
-https://www.cafirexos.com
-
+https://chat.whatsapp.com/FkX5wjbIci36Q0lHYKF5DD
 ✨ *Dashboard*
-https://dash.cafirexos.com
+https://chat.whatsapp.com/FkX5wjbIci36Q0lHYKF5DD
 
 ⚙️ *Panel*
-https://panel.cafirexos.com
+https://chat.whatsapp.com/FkX5wjbIci36Q0lHYKF5DD
 
 📢 *Canal de WhatsApp*
-https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q
+https://chat.whatsapp.com/FkX5wjbIci36Q0lHYKF5DD
 
 💥 *Grupo de WhatsApp*
-https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdFJ
+https://chat.whatsapp.com/FkX5wjbIci36Q0lHYKF5DD
 
-📧 *Correo*
-contacto@cafirexos.com
+𝐑𝐞𝐚𝐝𝐳 𝐀𝐥𝐞𝐢𝐳𝐧
 
-🧑‍💻 *Contacto (Diego Flores)*
-https://wa.me/50497150165
+🧑‍💻 *Contacto (Aleizn)*
+https://wa.me/51992621601
 `
 await conn.sendFile(m.chat, 'https://grxcwmcwbxwj.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grxcwmcwbxwj/b/cafirexos/o/logos%2Flogo.png', 'fantasy.jpg', cafirexos.trim(), fkontak, true, {
 contextInfo: {
